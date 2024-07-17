@@ -1,0 +1,16 @@
+{
+    "name": "bottele",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "bot": "node index.js"
+    },
+    "keywords": [],
+    "author": "Dzombies45",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "node-telegram-bot-api": "^0.63.0"
+    }
+}
